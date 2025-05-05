@@ -99,7 +99,7 @@ h7 {
   margin-top: 20px;
   margin-bottom: 0px;
   font-weight: 700;
-  font-size:25px;
+  font-size:30px;
   vertical-align:top;
   line-height: 30px;
 }
@@ -795,7 +795,7 @@ Banner Style
 }
 
 .main-banner .item h2 {
-  font-size: 62px;
+  font-size: 52px;
   font-weight: 700;
   text-transform: uppercase;
   color: #fff;
