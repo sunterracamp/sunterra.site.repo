@@ -99,7 +99,7 @@ h7 {
   margin-top: 20px;
   margin-bottom: 0px;
   font-weight: 700;
-  font-size:30px;
+  font-size:25px;
   vertical-align:top;
   line-height: 30px;
 }
@@ -762,7 +762,7 @@ Banner Style
   background-position: center center;
   background-repeat: no-repeat;
   background-size: cover;
-  padding: 220px 20% 320px 20%;
+  padding: 220px 5% 320px 5%;
   margin-top: 0px;
 }
 
