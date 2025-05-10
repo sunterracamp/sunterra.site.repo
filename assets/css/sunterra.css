@@ -486,8 +486,8 @@ Header Style
 }
 
 .header-area .main-nav .nav li:last-child a {
-  background-color: #1e1e1e;
-  color: #fff;
+  background-color: #fff;
+  color: #1e1e1e;
   font-size: 14px;
   font-weight: 400;
   text-transform: none;
@@ -738,7 +738,7 @@ Header Style
     border-top: 1px solid #eee;
   }
   .header-area.header-sticky .nav {
-    margin-top: 80px !important;
+    margin-top: 20px !important;
   }
   .background-header.header-sticky .nav {
     margin-top: 80px !important;
@@ -771,11 +771,11 @@ Banner Style
 }
 
 .main-banner .item-2 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/banner-02.jpg);
+  background-image: url(../images/banner-02.jpg);
 }
 
 .main-banner .item-3 {
-  background-image: linear-gradient(rgba(0, 0, 0, 0.5), rgba(0, 0, 0, 0.5)), url(../images/banner-03.jpg);
+  background-image: url(../images/banner-03.jpg);
 }
 
 .main-banner .item span.category {
@@ -1770,7 +1770,7 @@ body {
     margin: 5px;
   }
   .header-area .main-nav .nav li:last-child {
-    display: none;
+    display:block;
   }
 }
 
