@@ -1661,6 +1661,10 @@ Contact Page Style
   margin-bottom: 30px;
 }
 
+.contact-page .email {
+  margin-bottom: 30px;
+}
+
 .contact-page .item img {
   float: left;
   margin-right: 25px;
